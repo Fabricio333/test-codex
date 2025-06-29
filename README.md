@@ -8,8 +8,9 @@ Sitio web oficial de la academia de piano **Teclas Ciudad Jardín**, ubicada en 
 
 - `index.html` – Página principal con secciones: Hero, Por qué elegirnos, Bio de la profesora, Filosofía, CTA final.
 - `style.css` – Estilos principales (colores, tipografía, responsividad).
-- `assets/` – Imágenes de portada, iconos, y fotos de la profesora.
+- `assets/` – Carpeta reservada para imágenes locales (actualmente se utilizan fotos de stock desde Unsplash).
 - `form.html` – Redirección o enlace a formulario de inscripción externo (Google Forms).
+- `plan.html` – Detalle de los módulos del plan de estudios.
 
 ---
 
