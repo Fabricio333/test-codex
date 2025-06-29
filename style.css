@@ -31,7 +31,7 @@ body {
 }
 
 .hero {
-  background: url('assets/hero.jpg') center/cover no-repeat;
+  background: url('https://source.unsplash.com/1600x900/?grand-piano') center/cover no-repeat;
   min-height: 80vh;
   display: flex;
   align-items: center;
