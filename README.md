@@ -28,7 +28,7 @@ Sitio web oficial de la academia de piano **Teclas Ciudad Jardín**, ubicada en 
    ```bash
    git clone https://github.com/tuusuario/teclas-ciudad-jardin.git
    cd teclas-ciudad-jardin
-````
+   ```
 
 2. Abrir `index.html` en tu navegador preferido.
 
@@ -47,5 +47,5 @@ Sitio web oficial de la academia de piano **Teclas Ciudad Jardín**, ubicada en 
 
 Este proyecto es de uso privado para la academia Teclas Ciudad Jardín. Contactar a [@teclas.ciudadjardin](https://www.instagram.com/teclas.ciudadjardin/) para permisos de uso o colaboración.
 
-````
+
 
